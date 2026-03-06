@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "0G",
+  "base_artist": "Moroha",
+  "createdAt": "2026-03-06T18:44:32.592275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0g",
+      "artist": "프로미스나인",
+      "has_synced": true,
+      "path": "select/01_0g_프로미스나인.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "0g",
+      "artist": "fromis9",
+      "has_synced": true,
+      "path": "select/02_0g_fromis9.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0G",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_0G_MOROHA.txt"
+    }
+  ]
+}
